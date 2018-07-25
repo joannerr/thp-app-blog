@@ -29,12 +29,13 @@ Rails db:migrate
 ```
 
 * Etape 3 : Ouvrir le fichier 'development.sqlite3' dans votre outil de visualisation de BDD
+
 Nous on utilise 'DB Browser for SQLite'
 
 * Etape 4 : Alimentation des bases de données
 ```
 Rails db:seed 
 ```
-Actualiser pour voir apparaitres les données.
+Actualiser pour voir apparaitre les données.
 
 
